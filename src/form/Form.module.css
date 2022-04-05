@@ -1,0 +1,32 @@
+
+
+.mainWrapper {
+    background-color: #f67b8d;
+    padding: 20px 0;
+}
+
+.mainWrapper h2 {
+    margin-top: 0;
+    text-align: center;
+    background-color: #f6987b;
+}
+
+.mainWrapper form {
+    width: 250px;
+    height: 150px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #f6987b;
+}
+
+.mainWrapper form textarea {
+    height: 50px;
+}
+
+.mainWrapper form button {
+    width: 100px;
+    margin: 0 auto;
+}
+

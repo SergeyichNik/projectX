@@ -1,0 +1,22 @@
+.mainWrapper {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #f67b8d;
+}
+
+.mainWrapper h2 {
+    margin-top: 0;
+    text-align: center;
+    background-color: #f6987b;
+}
+
+
+.cardsWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}

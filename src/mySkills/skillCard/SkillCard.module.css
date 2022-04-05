@@ -1,0 +1,25 @@
+
+.card {
+    width: 250px;
+    margin-bottom: 20px;
+    padding: 20px 20px 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+    background-color: #f6987b;
+}
+
+.card .img {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    margin-bottom: 20px;
+    background-color: #f67b8d;
+    transform: rotate(45deg);
+}
+
+h3, .skillDesc {
+    background-color: #f67b8d;
+}
